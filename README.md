@@ -2,7 +2,7 @@
 
 > *CI/CD · Containers · IaC · Observability · GitOps*
 
-Software engineer from 1337 School (42 Network) currently focused on DevOps. Completed an 8-project, 8-day challenge covering the full modern DevOps toolchain. Background in systems programming (C/C++), Unix, and full-stack development.
+Software engineer from 1337 School (42 Network) currently focused on DevOps. Background in systems programming (C/C++), Unix, and full-stack development.
 
 ---
 
