@@ -17,4 +17,4 @@ Dev            C/C++ · Python · Node.js · React · SQL
 ```
 
 ## Contact
-📍 Agadir, Morocco &nbsp;·&nbsp; 🔗 [linkdin.com/unexpectedder](https://linkdin.com/unexpectedder)
+📍 Agadir, Morocco &nbsp;·&nbsp; 🔗 [linkdin.com/unexpectedder](https://www.linkedin.com/in/unexpectedder/)
